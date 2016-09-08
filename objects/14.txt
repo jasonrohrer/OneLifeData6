@@ -1,11 +1,11 @@
-id=7
-Tree
+id=14
+Pine Tree
 containable=0
 containSize=1
 permanent=1
 heldInHand=0
 blocksWalking=1
-mapChance=0.500000#biomes_0
+mapChance=0.250000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0
@@ -20,8 +20,8 @@ deadlyDistance=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=79
-pos=0.000000,4.000000
+spriteID=90
+pos=2.000000,6.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
