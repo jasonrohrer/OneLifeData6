@@ -7,7 +7,7 @@ echo "Full diff:"
 hg diff --stat
 
 echo ""
-./checkInReport.sh
+bash checkInReport.sh
 
 echo ""
 
