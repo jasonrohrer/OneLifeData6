@@ -88,7 +88,7 @@ then
 	actor="[DEFAULT]"
 else
 	actor=$(cat "objects/$actorID.txt" | sed -n 2p );
-	actor="\"$target\"";
+	actor="\"$actor\"";
 fi
 
 
