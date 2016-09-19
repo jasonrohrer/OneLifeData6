@@ -1,5 +1,5 @@
-id=42
-Long Shaft
+id=86
+Leaf
 containable=0
 containSize=1
 permanent=0
@@ -13,15 +13,15 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,-7.000000
+heldOffset=7.000000,-11.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=151
-pos=-26.000000,-31.000000
+spriteID=194
+pos=-2.000000,-37.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
