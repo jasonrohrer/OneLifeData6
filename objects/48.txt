@@ -21,7 +21,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=2
 spriteID=189
-pos=-5.000000,7.000000
+pos=-5.000000,-36.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -29,7 +29,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0
 spriteID=184
-pos=0.000000,18.000000
+pos=0.000000,-25.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

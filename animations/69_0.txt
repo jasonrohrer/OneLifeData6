@@ -1,4 +1,4 @@
-id=64
+id=69
 type=0
 numSprites=5
 numSlots=0
