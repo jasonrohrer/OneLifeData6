@@ -1,5 +1,5 @@
-id=119
-Snared Rabbit Hole
+id=134
+Snared Rabbit Family Hole
 containable=0
 containSize=1
 permanent=1

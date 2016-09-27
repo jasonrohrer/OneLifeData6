@@ -1,5 +1,5 @@
-id=120
-Snared Rabbit
+id=127
+Angry Snared Rabbit
 containable=0
 containSize=1
 permanent=1
