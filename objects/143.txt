@@ -1,5 +1,5 @@
-id=130
-Rabbit Family Hole
+id=143
+Scared Rabbit Hole
 containable=0
 containSize=1
 permanent=1

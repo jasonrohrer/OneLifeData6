@@ -1,11 +1,11 @@
-id=130
-Rabbit Family Hole
+id=150
+Sapling
 containable=0
 containSize=1
 permanent=1
-heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0
-mapChance=0.000000#biomes_0
+heldInHand=1
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0
+mapChance=0.500000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0
@@ -19,17 +19,9 @@ clothingOffset=0.000000,0.000000
 deadlyDistance=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
-spriteID=279
-pos=-5.000000,16.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0
-spriteID=276
-pos=-4.000000,1.000000
+numSprites=1
+spriteID=317
+pos=-2.000000,-35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
