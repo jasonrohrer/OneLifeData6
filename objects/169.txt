@@ -1,9 +1,9 @@
-id=157
-Rabbit Bone
+id=169
+Cut Rabbit Skin
 containable=0
 containSize=1
 permanent=0
-heldInHand=1
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -13,15 +13,23 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=7.000000,-12.000000
+heldOffset=32.000000,19.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=1
-spriteID=324
-pos=21.000000,-27.000000
+numSprites=2
+spriteID=321
+pos=25.000000,-18.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0
+spriteID=319
+pos=22.000000,-43.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
