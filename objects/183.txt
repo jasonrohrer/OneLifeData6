@@ -1,5 +1,5 @@
-id=141
-Dead Rabbit
+id=183
+Dead Snared Rabbit
 containable=1
 containSize=1
 permanent=0
@@ -13,16 +13,24 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=-9.000000,1.000000
+heldOffset=-4.000000,3.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=1
+numSprites=2
 spriteID=311
 pos=7.000000,-28.000000
 rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=277
+pos=30.000000,-36.000000
+rot=0.500000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
