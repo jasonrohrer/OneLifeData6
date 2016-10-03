@@ -20,14 +20,14 @@ deadlyDistance=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=317
-pos=-2.000000,-35.000000
+spriteID=412
+pos=0.000000,16.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1

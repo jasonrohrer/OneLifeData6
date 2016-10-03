@@ -15,7 +15,7 @@ foodValue=0
 speedMult=1.000000
 heldOffset=35.000000,28.000000
 clothing=t
-clothingOffset=-3.000000,64.000000
+clothingOffset=-4.000000,64.000000
 deadlyDistance=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
@@ -27,7 +27,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=-39
+invisHolding=0,invisWorn=1,behindSlots=0
 spriteID=330
 pos=4.000000,-18.000000
 rot=0.000000
@@ -35,7 +35,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
