@@ -1,7 +1,8 @@
 echo "Pushing local changes to server..."
 
-hg addremove overlays sprites/*.txt \
-   objects/*.txt animations/*.txt transitions/*.txt
+hg addremove -X sprites/cache.fcz -X objects/cache.fcz \
+             -Xanimations/cache.fcz -X transitions/cache.fcz \
+             overlays sprites objects animations transitions
 
 echo ""
 echo "Full diff:"
