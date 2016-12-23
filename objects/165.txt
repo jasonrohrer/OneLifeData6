@@ -2,9 +2,9 @@ id=165
 Rabbit Fur Coat
 containable=0
 containSize=1
-permanent=0
+permanent=0,minPickupAge=3
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.200000
@@ -17,6 +17,7 @@ heldOffset=35.000000,28.000000
 clothing=t
 clothingOffset=-4.000000,64.000000
 deadlyDistance=0
+sounds=131:0.237374,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=2

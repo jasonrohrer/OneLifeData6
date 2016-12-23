@@ -17,6 +17,7 @@ heldOffset=27.000000,58.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
+sounds=13:1.000000,21:0.232323,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=65
@@ -473,7 +474,7 @@ pos=-44.000000,157.000000
 rot=0.000000
 hFlip=0
 color=0.183099,1.000000,0.827415
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=60
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=647
@@ -481,7 +482,7 @@ pos=54.000000,154.000000
 rot=0.000000
 hFlip=0
 color=0.183099,0.758381,1.000000
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=60
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=653
@@ -489,7 +490,7 @@ pos=-46.000000,156.000000
 rot=0.000000
 hFlip=0
 color=0.183099,1.000000,0.758381
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=60
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=645
@@ -497,7 +498,7 @@ pos=57.000000,151.000000
 rot=0.000000
 hFlip=0
 color=0.183099,0.896449,1.000000
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=60
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=633
@@ -505,7 +506,7 @@ pos=4.000000,175.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=43
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=639
@@ -513,7 +514,7 @@ pos=5.000000,173.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=60
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=655
@@ -521,7 +522,7 @@ pos=86.000000,62.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=58
@@ -529,7 +530,7 @@ pos=5.000000,194.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=43
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=61
@@ -537,7 +538,7 @@ pos=6.000000,175.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=0.000000,0.070000
+ageRange=0.000000,0.200000
 parent=63
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=43

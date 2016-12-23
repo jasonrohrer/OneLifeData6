@@ -2,9 +2,9 @@ id=89
 Ember Shaft
 containable=0
 containSize=1
-permanent=1
+permanent=1,minPickupAge=3
 heldInHand=1
-blocksWalking=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -17,6 +17,7 @@ heldOffset=0.000000,-7.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
+sounds=218:1.000000,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=7
@@ -27,7 +28,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=229
 pos=29.000000,-35.000000
 rot=0.000000
@@ -35,7 +36,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=230
 pos=29.000000,-34.000000
 rot=0.000000
@@ -43,7 +44,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=234
 pos=28.000000,3.000000
 rot=0.000000
@@ -51,7 +52,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=233
 pos=27.000000,-3.000000
 rot=0.000000
@@ -59,7 +60,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=235
 pos=29.000000,4.000000
 rot=0.000000
@@ -67,7 +68,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=236
 pos=29.000000,6.000000
 rot=0.000000
@@ -75,7 +76,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1

@@ -2,9 +2,9 @@ id=79
 Short Curved Shaft
 containable=0
 containSize=1
-permanent=0
+permanent=0,minPickupAge=3
 heldInHand=1
-blocksWalking=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -17,6 +17,7 @@ heldOffset=-2.000000,-15.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
+sounds=133:0.277778,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
@@ -27,7 +28,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
