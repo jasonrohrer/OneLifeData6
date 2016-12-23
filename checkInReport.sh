@@ -1,4 +1,46 @@
 
+
+echo
+echo "Sound changes:"
+
+hg diff --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == sounds/*.aiff ]];
+then
+if [ -e $f ]
+then
+  echo "  $f"; 
+else
+  echo "$f removed"
+fi
+fi
+
+done
+
+
+echo
+echo "Music changes:"
+
+hg diff --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == music/*.ogg ]];
+then
+if [ -e $f ]
+then
+  echo "  $f"; 
+else
+  echo "$f removed"
+fi
+fi
+
+done
+
+
+
 echo
 echo "Sprite changes:"
 
