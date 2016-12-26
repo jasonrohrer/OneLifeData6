@@ -2,7 +2,7 @@ id=69
 Pine Door
 containable=0
 containSize=1
-permanent=0,minPickupAge=3
+permanent=0,minPickupAge=13
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0

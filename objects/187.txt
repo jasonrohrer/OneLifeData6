@@ -2,7 +2,7 @@ id=187
 Berry Seed
 containable=0
 containSize=1
-permanent=0,minPickupAge=3
+permanent=0,minPickupAge=6
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
