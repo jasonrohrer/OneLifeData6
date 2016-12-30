@@ -4,6 +4,8 @@ hg pull
 
 hg update
 
+rm */cache.fcz
+
 echo
 echo -n "Press ENTER to close."
 
