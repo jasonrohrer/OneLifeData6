@@ -42,6 +42,27 @@ done
 
 
 echo
+echo "Ground changes:"
+
+hg diff --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == ground/*.tga ]];
+then
+if [ -e $f ]
+then
+  echo "  $f"; 
+else
+  echo "$f removed"
+fi
+fi
+
+done
+
+
+
+echo
 echo "Sprite changes:"
 
 hg diff --stat | while read x; 
