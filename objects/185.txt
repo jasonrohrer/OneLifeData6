@@ -1,11 +1,11 @@
 id=185
 Pond
 containable=0
-containSize=1
-permanent=1
+containSize=1,vertSlotRot=0.000000
+permanent=1,minPickupAge=3
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1
-mapChance=0.500000#biomes_0
+blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1,drawBehindPlayer=1
+mapChance=0.500000#biomes_0,1
 heatValue=0
 rValue=0.000000
 person=0
@@ -17,6 +17,7 @@ heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
+sounds=-1:1.000000,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=7
