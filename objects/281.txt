@@ -1,5 +1,5 @@
-id=274
-Beaver Hat
+id=281
+Reed Bundle
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -13,24 +13,16 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=35.000000,19.000000
-clothing=h
-clothingOffset=-4.000000,46.000000
+heldOffset=26.000000,27.000000
+clothing=n
+clothingOffset=0.000000,0.000000
 deadlyDistance=0
-sounds=131:0.237374,-1:0.250000,-1:0.250000
+sounds=-1:1.000000,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
-spriteID=741
-pos=16.000000,-29.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=1
-invisHolding=0,invisWorn=1,behindSlots=0
-spriteID=737
-pos=1.000000,8.000000
+numSprites=1
+spriteID=772
+pos=3.000000,-16.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

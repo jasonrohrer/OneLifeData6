@@ -4,7 +4,7 @@ containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1,drawBehindPlayer=1
+blocksWalking=1,leftBlockingRadius=2,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -22,7 +22,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=10
 spriteID=690
-pos=-9.000000,53.000000
+pos=-139.000000,53.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -30,15 +30,15 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=704
-pos=19.000000,16.000000
+pos=-71.000000,21.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=709
-pos=76.597710,-50.477641
+pos=-13.402290,-45.477641
 rot=0.275000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -46,7 +46,7 @@ ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=708
-pos=102.697829,-45.499308
+pos=12.697829,-40.499308
 rot=0.275000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -54,7 +54,7 @@ ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=707
-pos=133.218004,-38.183647
+pos=43.218004,-33.183647
 rot=0.275000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -62,7 +62,7 @@ ageRange=-1.000000,-1.000000
 parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=706
-pos=136.075448,-10.026321
+pos=46.075448,-5.026321
 rot=0.105000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -70,7 +70,7 @@ ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=705
-pos=120.000000,20.000000
+pos=30.000000,25.000000
 rot=0.060000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -78,7 +78,7 @@ ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=703
-pos=-62.000000,22.000000
+pos=-152.000000,27.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -86,7 +86,7 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=702
-pos=-55.000000,15.000000
+pos=-145.000000,20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -94,7 +94,7 @@ ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=710
-pos=54.555698,-49.011460
+pos=-35.444302,-44.011460
 rot=0.275000
 hFlip=0
 color=1.000000,1.000000,1.000000
