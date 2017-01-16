@@ -1,5 +1,5 @@
-id=260
-Clay
+id=290
+Wet Clay Bowl
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=6
@@ -13,16 +13,24 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=32.000000,24.000000
+heldOffset=33.000000,17.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 sounds=-1:1.000000,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=1
-spriteID=817
-pos=0.000000,-25.000000
+numSprites=2
+spriteID=814
+pos=-5.000000,-18.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=803
+pos=-3.000000,-35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

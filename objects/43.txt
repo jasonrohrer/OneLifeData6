@@ -1,7 +1,7 @@
 id=43
 Tied Long Shaft
 containable=0
-containSize=1
+containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=10
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -22,7 +22,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=2
 spriteID=151
-pos=-26.000000,-31.000000
+pos=-31.000000,-31.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -30,7 +30,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=157
-pos=61.000000,-32.000000
+pos=56.000000,-32.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

@@ -1,8 +1,8 @@
-id=260
-Clay
+id=292
+Wet Adobe
 containable=0
 containSize=1,vertSlotRot=0.000000
-permanent=0,minPickupAge=6
+permanent=1,minPickupAge=6
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -21,8 +21,8 @@ sounds=-1:1.000000,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=817
-pos=0.000000,-25.000000
+spriteID=804
+pos=1.000000,-31.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
