@@ -1,13 +1,13 @@
 id=166
 Rabbit Fur Shawl
 containable=0
-containSize=1
+containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.100000
+rValue=0.200000
 person=0
 male=0
 deathMarker=0
