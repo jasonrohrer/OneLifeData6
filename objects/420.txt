@@ -1,5 +1,5 @@
-id=301
-Firing Adobe Kiln
+id=420
+Sealed Firing Adobe Kiln
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -20,7 +20,7 @@ deadlyDistance=0
 sounds=-1:0.297980,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=23
+numSprites=25
 spriteID=815
 pos=6.000000,9.000000
 rot=0.000000
@@ -202,6 +202,22 @@ pos=2.000000,68.000000
 rot=0.000000
 hFlip=0
 color=1.000000,0.507042,0.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1022
+pos=2.000000,47.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1023
+pos=1.000000,5.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
