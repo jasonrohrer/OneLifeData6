@@ -17,7 +17,7 @@ heldOffset=-3.000000,-12.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
-sounds=223:0.292929,-1:1.000000,-1:1.000000
+sounds=461:0.292929,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=5
