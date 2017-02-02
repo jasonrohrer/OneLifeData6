@@ -1,5 +1,5 @@
-id=458
-Wrought Iron on Rock
+id=465
+Hot Axe Head on Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -20,7 +20,7 @@ deadlyDistance=0
 sounds=-1:0.250000,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
+numSprites=3
 spriteID=1033
 pos=7.000000,-29.000000
 rot=0.000000
@@ -29,11 +29,19 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1031
-pos=3.000000,-17.000000
+spriteID=1043
+pos=2.000000,-15.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.169014,0.169014,0.169014
+ageRange=-1.000000,-1.000000
+parent=2
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1044
+pos=1.000000,-16.000000
+rot=0.000000
+hFlip=0
+color=1.000000,0.327118,0.098592
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

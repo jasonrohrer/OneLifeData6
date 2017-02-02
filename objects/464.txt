@@ -1,5 +1,5 @@
-id=458
-Wrought Iron on Rock
+id=464
+Steel Ingot on Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,8 +29,8 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1031
-pos=3.000000,-17.000000
+spriteID=1034
+pos=2.000000,-15.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

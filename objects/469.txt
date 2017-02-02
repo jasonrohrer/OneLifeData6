@@ -1,5 +1,5 @@
-id=458
-Wrought Iron on Rock
+id=469
+Hot Steel Ingot
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -21,19 +21,19 @@ sounds=-1:0.250000,-1:1.000000,-1:1.000000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=2
-spriteID=1033
-pos=7.000000,-29.000000
+spriteID=1034
+pos=1.000000,-32.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.169014,0.169014,0.169014
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1031
-pos=3.000000,-17.000000
+spriteID=1042
+pos=0.000000,-33.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.327118,0.098592
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
