@@ -1,7 +1,7 @@
 id=220
 Bow
 containable=0
-containSize=1
+containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=13
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -13,7 +13,7 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=-22.000000,-29.000000
+heldOffset=-49.000000,-33.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0

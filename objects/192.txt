@@ -1,7 +1,7 @@
 id=192
 Dirt-filled Backpack
 containable=0
-containSize=1
+containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=10
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -13,7 +13,7 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=55.000000,27.000000
+heldOffset=34.000000,52.000000
 clothing=p
 clothingOffset=-43.000000,53.000000
 deadlyDistance=0
